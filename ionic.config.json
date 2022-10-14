@@ -1,7 +1,9 @@
 {
   "name": "reciliaApp",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    }
   },
   "type": "angular"
 }
